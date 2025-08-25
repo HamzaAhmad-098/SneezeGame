@@ -437,7 +437,7 @@ def draw_instructions(screen, font):
     line_spacing = int(font.get_height() * 1.2)
     lines = [
         "SNEEZE ATTACK!",
-        "By Maitha Ali & Shahenaz Al Shamsi",
+        "By Hamzax Developers",
         "1. Use Arrow Keys to move.",
         "2. Collect tissues to reduce sneeze bar.",
         "3. Avoid allergens which increase it.",
